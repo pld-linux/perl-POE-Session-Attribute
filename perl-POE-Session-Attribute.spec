@@ -10,8 +10,8 @@ Summary:	POE::Session::Attribute - use attributes to define your POE Sessions
 Summary(pl):	POE::Session::Attribute - definiowanie sesji POE z u¿yciem atrybutów
 Name:		perl-POE-Session-Attribute
 Version:	0.80
-Release:	0.1
-# "same as perl 5.8.7 or any later perl 5"
+Release:	1
+# same as perl 5.8.7 or any later perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
