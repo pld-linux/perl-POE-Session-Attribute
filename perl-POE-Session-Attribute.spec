@@ -7,7 +7,7 @@
 %define		pdir	POE
 %define		pnam	Session-Attribute
 Summary:	POE::Session::Attribute - use attributes to define your POE Sessions
-Summary(pl):	POE::Session::Attribute - definiowanie sesji POE z u¿yciem atrybutów
+Summary(pl.UTF-8):   POE::Session::Attribute - definiowanie sesji POE z uÅ¼yciem atrybutÃ³w
 Name:		perl-POE-Session-Attribute
 Version:	0.80
 Release:	1
@@ -36,15 +36,15 @@ POE::Session::AttributeBased. As for now, all material test cases from
 POE::Session::AttributeBased distribution v0.03 run without errors
 with POE::Session::Attribute.
 
-%description -l pl
-Celem tego modu³u jest oszczêdzenie pisania czê¶ci kodu wokó³ metody
-POE::Session->create(). Wystarczy odziedziczyæ klasê z
-POE::Session::Attribute i zdefiniowaæ trochê stanów przy u¿yciu
-atrybutów. Metoda "spawn()" bêdzie dostarczona przez
-POE::Session::Attribute (oczywi¶cie mo¿na j± przeci±¿yæ).
-POE::Session::Attribute próbuje byæ w miarê kompatybilny z
+%description -l pl.UTF-8
+Celem tego moduÅ‚u jest oszczÄ™dzenie pisania czÄ™Å›ci kodu wokÃ³Å‚ metody
+POE::Session->create(). Wystarczy odziedziczyÄ‡ klasÄ™ z
+POE::Session::Attribute i zdefiniowaÄ‡ trochÄ™ stanÃ³w przy uÅ¼yciu
+atrybutÃ³w. Metoda "spawn()" bÄ™dzie dostarczona przez
+POE::Session::Attribute (oczywiÅ›cie moÅ¼na jÄ… przeciÄ…Å¼yÄ‡).
+POE::Session::Attribute prÃ³buje byÄ‡ w miarÄ™ kompatybilny z
 POE::Session::AttributeBased. Jak na razie wszystkie przypadki testowe
-z dystrybucji POE::Session::AttributeBased 0.03 dzia³aj± bez b³êdów z
+z dystrybucji POE::Session::AttributeBased 0.03 dziaÅ‚ajÄ… bez bÅ‚Ä™dÃ³w z
 POE::Session::Attribute.
 
 %prep
