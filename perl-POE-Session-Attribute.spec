@@ -7,7 +7,7 @@
 %define		pdir	POE
 %define		pnam	Session-Attribute
 Summary:	POE::Session::Attribute - use attributes to define your POE Sessions
-Summary(pl.UTF-8):   POE::Session::Attribute - definiowanie sesji POE z użyciem atrybutów
+Summary(pl.UTF-8):	POE::Session::Attribute - definiowanie sesji POE z użyciem atrybutów
 Name:		perl-POE-Session-Attribute
 Version:	0.80
 Release:	1
